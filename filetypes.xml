@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="java_testIf" type="CLASS" />
+      <mapping pattern="part-00001" type="PLAIN_TEXT" />
+      <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
+      <mapping pattern="part-00000" type="PLAIN_TEXT" />
+      <mapping pattern="scala_test1" type="Scala" />
+    </extensionMap>
+  </component>
+</application>
